@@ -1,6 +1,7 @@
 # AI Resume Builder
 
 ![AI Resume Builder Preview](![image](https://github.com/user-attachments/assets/ee0bd87b-964a-4ab6-a375-b4226b86822d)
+
 )
 
 A modern React application that helps users create professional resumes quickly and easily.
