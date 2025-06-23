@@ -2,7 +2,7 @@
   "name": "ai-resume-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/PremChand34555/AI-Resume-Builder",
+  "homepage": "https://PremChand34555.github.io/AI-Resume-Builder",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
@@ -31,8 +31,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
